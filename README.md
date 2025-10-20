@@ -24,7 +24,7 @@ I'm a backend engineering student at CSN with a unique background in operations 
 Seeking Software Developer Intern or Co-Op opportunities in EdTech to apply my backend development skills and collaborative experience to projects that improve learning experiences for students and educators.
 
 ### 📚 Featured Projects
-*(Pin your best 3 repositories below this section)*
+*(Pinned best 4 repositories below this section)*
 
 ### 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/orion-burnette-23112b116](https://www.linkedin.com/in/orion-burnette-23112b116/)
