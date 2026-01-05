@@ -1,6 +1,6 @@
 # Hi, I'm Orion Burnette 👋
 
-## Backend Developer | EdTech Enthusiast | Problem Solver
+## Backend Developer | Problem Solver
 
 I'm a backend engineering student at CSN with a unique background in operations leadership and quality management. I bring 3+ years of team management experience to software development, with a passion for building educational technology that makes a real impact.
 
